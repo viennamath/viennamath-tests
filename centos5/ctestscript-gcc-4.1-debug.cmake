@@ -14,4 +14,4 @@ set(WITH_MEMCHECK TRUE)
 set(WITH_COVERAGE FALSE)
 
 ########################################################################
-include(../ctestscript-common.cmake)
+include(${ROOT_DIRECTORY}/viennamath-tests/ctestscript-common.cmake)
